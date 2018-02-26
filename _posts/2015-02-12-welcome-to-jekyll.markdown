@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! - Rasheq Edition"
 date:   2015-02-12 13:46:40
 categories: jekyll update
 ---
